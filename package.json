@@ -1,1 +1,1 @@
-{"name":"family-hub","version":"3.1.1","private":true,"dependencies":{"@netlify/blobs":"^10.0.0"}}
+{"name":"family-hub-community","version":"1.0.0","private":true,"dependencies":{"@netlify/blobs":"^10.0.0"}}
