@@ -1,0 +1,12 @@
+# Netlify
+.netlify/
+
+# Dependencies
+node_modules/
+
+# API keys and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key

@@ -1,0 +1,73 @@
+{
+    "week":  "Demo",
+    "dates":  "Eksempel på en madplan",
+    "people":  3,
+    "price":  "230–260 kr. (estimat)",
+    "meals":  [
+                  {
+                      "title":  "Cremet kyllingepasta med spinat",
+                      "time":  "20 min",
+                      "ingredients":  [
+                                          "400 g hakket kylling",
+                                          "300 g pasta",
+                                          "250 ml fløde",
+                                          "100 g spinat",
+                                          "1 løg",
+                                          "2 fed hvidløg",
+                                          "parmesan"
+                                      ],
+                      "instructions":  "Kog pastaen. Steg løg, hvidløg og kylling, til kødet er gennemstegt. Tilsæt fløde og spinat, lad simre i 5 minutter. Vend pastaen i og top med parmesan.",
+                      "image":  "/meal1.jpg"
+                  },
+                  {
+                      "title":  "Frikadeller med sprøde kartofler og salat",
+                      "time":  "25–30 min",
+                      "ingredients":  [
+                                          "400 g hakket gris og kalv",
+                                          "650 g kartofler",
+                                          "1 løg",
+                                          "1 æg",
+                                          "mælk og mel",
+                                          "½ iceberg",
+                                          "½ agurk",
+                                          "2 tomater",
+                                          "100 g cremefraiche"
+                                      ],
+                      "instructions":  "Halvér kartoflerne, vend med olie og salt, og giv dem ca. 20 minutter i airfryer ved 200 °C. Rør farsen med løg, æg, mælk, mel, salt og peber. Form små frikadeller og steg dem gennemstegte. Lav salat og dressing.",
+                      "image":  "/meal2.jpg"
+                  },
+                  {
+                      "title":  "Stegt laks med kartofler og citroncreme",
+                      "time":  "25 min",
+                      "ingredients":  [
+                                          "450 g laks",
+                                          "650 g kartofler",
+                                          "300 g grønne bønner",
+                                          "150 g cremefraiche",
+                                          "1 citron",
+                                          "dild"
+                                      ],
+                      "instructions":  "Kog kartoflerne i 15–20 minutter. Steg laksen på skindsiden i 5–6 minutter, vend og steg videre til gennemtilberedt. Kog bønnerne i 4–5 minutter. Rør cremefraiche med citron, dild, salt og peber.",
+                      "image":  "/meal3.jpg"
+                  }
+              ],
+    "shopping":  [
+                     "400 g hakket kylling",
+                     "400 g hakket gris og kalv",
+                     "450 g laksefilet",
+                     "1300 g små kartofler",
+                     "1 kg løg",
+                     "1 hvidløg",
+                     "100 g spinat",
+                     "1 icebergsalat",
+                     "1 agurk",
+                     "2 tomater",
+                     "300 g grønne bønner",
+                     "1 citron",
+                     "1 bundt dild",
+                     "250 ml madlavningsfløde",
+                     "250 g cremefraiche",
+                     "1 pakke parmesan",
+                     "500 g pasta"
+                 ]
+}
